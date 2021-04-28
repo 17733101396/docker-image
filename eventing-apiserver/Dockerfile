@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/apiserver_receive_adapter@sha256:65de192a61150c6f97371a77e2ac462d5e62fc91909662fcdaa285d9602476c3
+MAINTAINER zhengmingyi <17733101396@163.com>
