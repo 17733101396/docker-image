@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/descheduler/descheduler:latest
+FROM k8s.gcr.io/descheduler/descheduler
 MAINTAINER zhengmingyi <17733101396@163.com>
